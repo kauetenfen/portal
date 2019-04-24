@@ -1,0 +1,16 @@
+br/com/coontrol/portal/view/util/RestResponsePage.class
+br/com/coontrol/portal/view/scope/SessionReplicationAwareScopeMetadataResolver.class
+br/com/coontrol/portal/view/scope/ViewScope.class
+br/com/coontrol/portal/view/service/PessoaServiceView$1.class
+br/com/coontrol/portal/view/bean/FibonacciBean.class
+br/com/coontrol/portal/view/service/FibonacciServiceView.class
+br/com/coontrol/portal/view/dto/Pessoa.class
+br/com/coontrol/portal/view/scope/ScopeName.class
+br/com/coontrol/portal/view/config/ConfigureJSFContextParameters.class
+br/com/coontrol/portal/view/bean/AutenticacaoBean.class
+br/com/coontrol/portal/view/service/PessoaServiceView.class
+br/com/coontrol/portal/view/Application.class
+br/com/coontrol/portal/view/config/CustomScopeRegisteringBeanFactoryPostProcessor.class
+br/com/coontrol/portal/view/config/ConfigureJSF.class
+br/com/coontrol/portal/view/config/ConfigSecurity.class
+br/com/coontrol/portal/view/bean/PessoaBean.class

@@ -1,0 +1,15 @@
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/service/PessoaServiceView.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/config/ConfigSecurity.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/util/RestResponsePage.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/scope/ViewScope.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/bean/PessoaBean.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/service/FibonacciServiceView.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/bean/AutenticacaoBean.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/bean/FibonacciBean.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/config/ConfigureJSFContextParameters.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/config/ConfigureJSF.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/scope/ScopeName.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/config/CustomScopeRegisteringBeanFactoryPostProcessor.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/Application.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/scope/SessionReplicationAwareScopeMetadataResolver.java
+/home/coontrol/git/portal.pom/portal.view/src/main/java/br/com/coontrol/portal/view/dto/Pessoa.java

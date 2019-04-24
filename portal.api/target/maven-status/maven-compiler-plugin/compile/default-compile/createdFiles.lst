@@ -1,0 +1,9 @@
+br/com/coontrol/portal/api/controller/PessoaController.class
+br/com/coontrol/portal/api/controller/SecurityController.class
+br/com/coontrol/portal/api/repository/PessoaRepository.class
+br/com/coontrol/portal/api/service/MyUserDetailsService.class
+br/com/coontrol/portal/api/controller/UtilController.class
+br/com/coontrol/portal/api/service/UtilService.class
+br/com/coontrol/portal/api/repository/UsuarioRepository.class
+br/com/coontrol/portal/api/service/PessoaService.class
+br/com/coontrol/portal/api/config/StartupEventListenerBean.class

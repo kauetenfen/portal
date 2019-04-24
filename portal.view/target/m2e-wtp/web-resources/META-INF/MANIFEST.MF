@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: portal.view
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: coontrol
+Implementation-Vendor-Id: br.com.coontrol
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/portal.pom/portal.view
+Created-By: Maven Integration for Eclipse
+
