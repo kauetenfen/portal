@@ -1,0 +1,7 @@
+*.class
+portal.api/target/
+portal.model/target/
+portal.view/target/
+/portal.api/target/
+/portal.model/target/
+/portal.view/target/
